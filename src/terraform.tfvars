@@ -10,4 +10,4 @@ subscription_name = "cloud-run-subscription"
 
 service_name = "my-cloud-run-service"
 
-image_name = "druvanand/hello-world-python:0.0.1.RELEASE"
+image_name = "gavininthecloud/helloworld:1.0"
